@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S20+ ULTRA",
+      "price": "840000"
+    },
+    {
+      "id": 2,
+      "name": "TV-HDMI SAMSUNG",
+      "price": 900234
+    },
+    {
+      "id": 3,
+      "name": "Computar DELL LBT34",
+      "price": 8743344
+    },
+    {
+      "name": "PC Packard Bell 2008",
+      "price": 180000,
+      "id": 4
+    },
+    {
+      "name": "MAC-20",
+      "price": "1000000",
+      "id": 5
+    },
+    {
+      "name": "Caneta preta",
+      "price": "100",
+      "id": 6
+    }
+  ]
+}
